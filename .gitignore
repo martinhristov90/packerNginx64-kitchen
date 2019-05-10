@@ -5,3 +5,4 @@ packer_cache/*
 Gemfile.lock
 .kitchen/
 .ruby-version
+backup
