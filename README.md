@@ -34,7 +34,7 @@ This repository's sole purpose is to demonstrate how to built a Vagrant box with
 ### NB : Make sure you execute the abovementioned commands in `packerNginx64` directory.
 
 
-# Now you should have a running Vagrantbox with nginx installed. Next step is test that nginx is running.
+### Now you should have a running Vagrantbox with nginx installed. Next step is test that nginx is running.
 
 # How to setup KitchenCI (MacOS Mojave).
 
