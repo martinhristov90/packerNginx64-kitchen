@@ -3,7 +3,6 @@ driver:
 
 provisioner:
   name: shell
-
 platforms:
   - name: ubuntuNginx 
     driver:

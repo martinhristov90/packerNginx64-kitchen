@@ -47,7 +47,10 @@ This repository's sole purpose is to demonstrate how to built a Vagrant box with
     echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
     echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
     ```
-- Reload your BASH interpreter.
+- Reload your BASH interpreter or apply the changes to the profile.
+    ```shell
+    source ~/.bash_profile 
+    ```
 - Verify rbenv is installed properly with :
     ```shell
     type rbenv   # → "rbenv is a function"
